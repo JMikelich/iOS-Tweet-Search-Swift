@@ -1,6 +1,6 @@
 # iOS-Tweet-Search-Swift
 
-Overview: This app has the same functionality as iOS-Tweet-Search except it has been done use the Swift programming language. Some UI changins have been made in order to fit with preferred Swift schemes.
+Overview: This app has the same functionality as iOS-Tweet-Search except it has been done use the Swift programming language.
 
 Description: This app demonstrates using Accounts.h and Social.h to search tweets, and saving information into Core Data. The app perfoms a search of all user tweets for a specify keyword/s. These results are displayed on a table view and the user has the ability to select tweets they like to view later. The saved tweets are stored in Core Data. These saved tweets are then loaded from Core Data and displayed in a table view, where the user has the ability to delete them from the Core Data Stack.
 
